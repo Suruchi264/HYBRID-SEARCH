@@ -12,17 +12,8 @@ Traditional search systems rely only on keyword matching, while modern AI search
 
 Architecture:
 
-User Query
-   │
-   ├── Keyword Search (BM25 / lexical match)
-   │
-   ├── Vector Search (semantic embeddings)
-   │
-   ▼
-Result Fusion
-   │
-   ▼
-Ranked Search Results
+<img width="538" height="343" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/f430553a-23d1-41b0-98d5-5315f4dde648" />
+
 
 This technique is widely used in AI search engines, RAG pipelines, and intelligent retrieval systems.
 
